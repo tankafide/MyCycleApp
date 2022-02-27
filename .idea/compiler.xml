@@ -7,6 +7,9 @@
       <module name="MyCycleApp.onboarding.onboarding_data" target="11" />
       <module name="MyCycleApp.onboarding.onboarding_domain" target="11" />
       <module name="MyCycleApp.onboarding.onboarding_presentation" target="11" />
+      <module name="MyCycleApp.rideTracking.rideTracking_data" target="11" />
+      <module name="MyCycleApp.rideTracking.rideTracking_domain" target="11" />
+      <module name="MyCycleApp.rideTracking.rideTracking_presentation" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

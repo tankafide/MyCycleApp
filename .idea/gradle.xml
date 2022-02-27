@@ -15,6 +15,10 @@
             <option value="$PROJECT_DIR$/onboarding/onboarding_data" />
             <option value="$PROJECT_DIR$/onboarding/onboarding_domain" />
             <option value="$PROJECT_DIR$/onboarding/onboarding_presentation" />
+            <option value="$PROJECT_DIR$/rideTracking" />
+            <option value="$PROJECT_DIR$/rideTracking/rideTracking_data" />
+            <option value="$PROJECT_DIR$/rideTracking/rideTracking_domain" />
+            <option value="$PROJECT_DIR$/rideTracking/rideTracking_presentation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
