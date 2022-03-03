@@ -3,7 +3,10 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="MyCycleApp.app" target="11" />
+      <module name="MyCycleApp.buildSrc" target="11" />
       <module name="MyCycleApp.core" target="11" />
+      <module name="MyCycleApp.core-ui" target="11" />
+      <module name="MyCycleApp.mylibrary" target="11" />
       <module name="MyCycleApp.onboarding.onboarding_data" target="11" />
       <module name="MyCycleApp.onboarding.onboarding_domain" target="11" />
       <module name="MyCycleApp.onboarding.onboarding_presentation" target="11" />
